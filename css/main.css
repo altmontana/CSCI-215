@@ -1,0 +1,43 @@
+.blue, .blue a {
+    color: #2cb4e1;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #265a88;
+}
+
+.navbar-header {
+    float: right;
+}
+
+.jumbotron {
+    background-color: #2cb4e1;
+}
+
+.caption {
+    background-color: #ebebeb;
+}
+
+footer {
+    text-align: center;
+    text-decoration-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

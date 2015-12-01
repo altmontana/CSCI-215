@@ -1,1 +1,3 @@
 # CSCI-215 
+I decided to do this project so I could gain a basic understanding of the workings of Bootstrap. I learned the basic structure of Bootstrap and some of its pros and cons. It is really handy to have modern pre-made structures for implementation. I used a template from my Netbeans platform and modified it from there. 
+The content of the website was aimed toward a younger audience that has never heard of a patent troll, etc. Sometimes information on the web can be very hard to read on many sites. My aim was to make it simple and easier to read. It also contains many helpful links to websites where I gathered a majority of my information.

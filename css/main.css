@@ -17,12 +17,23 @@ body {
 }
 
 .caption {
-    background-color: #ebebeb;
+    background-color: #cccccc;
+}
+
+.text {
+    color: #2cb4e1;
+}
+
+ul {
+    color: #265a88;
 }
 
 footer {
+    margin-top: 10px;
+    padding-top: 20px;
+    border-top: 1px solid;
     text-align: center;
-    text-decoration-color: white;
+    color: #2cb4e1;
 }
 
 
